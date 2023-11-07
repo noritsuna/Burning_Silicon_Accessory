@@ -21,7 +21,7 @@ ML1層（メタル1層）に、安定化電源を用いてちょっとずつ電�
 ![ML1層のベタ部](/images/layout_metal1_beta.jpg)  
 
 - [フラクタル図形](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB)
-    - ![フラクタル図形の例](https://upload.wikimedia.org/wikipedia/commons/d/dc/Mandelbrot_20210411_007.png)
+    - ![フラクタル図形の例](/images/fractal_fig.jpg)
 - [リヒテンベルク図形](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%9B%B3%E5%BD%A2)
     - ![リヒテンベルク図形の例](https://upload.wikimedia.org/wikipedia/commons/e/e4/PlanePair2.jpg)
 
